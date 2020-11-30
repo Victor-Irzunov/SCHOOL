@@ -1,0 +1,3 @@
+https://materializecss.com/getting-started.html
+npm i uuid                                        генерирует интересные id
+npm install mongoose       --save(либо -S)
